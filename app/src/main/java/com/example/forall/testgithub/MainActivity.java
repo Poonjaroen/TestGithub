@@ -7,7 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     String name = "name";
     int id = 1001;
-    double bank = 1.11;
+    float bankTMB = 1.11f;
 
 
     @Override
