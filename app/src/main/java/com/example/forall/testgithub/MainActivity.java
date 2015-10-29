@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
 
     double lastName = 45.555;
 
+    String ss = "";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
