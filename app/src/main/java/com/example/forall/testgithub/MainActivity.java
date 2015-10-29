@@ -8,12 +8,8 @@ public class MainActivity extends AppCompatActivity {
     String name = "name";
     int id = 1001;
     float bankTMB = 1.11f;
-
     double lastName = 45.555;
-
     String ss = "";
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
 
         int test = 21312;
 
-//sadf
+        //sadf
     }
 }
