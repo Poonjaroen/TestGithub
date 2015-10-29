@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     int id = 1001;
     float bankTMB = 1.11f;
 
-    String lastName = "";
+    double lastName = 45.555;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
