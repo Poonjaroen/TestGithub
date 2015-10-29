@@ -7,6 +7,8 @@ public class MainActivity extends AppCompatActivity {
 
     String name = "name";
     int id = 1001;
+    double bank = 1.11;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
